@@ -1,3 +1,5 @@
 uvicorn main:app --reload 
 
 install pydantic
+
+from pydantic import basemodel
